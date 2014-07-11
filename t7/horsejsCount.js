@@ -10,6 +10,6 @@ module.exports = function (db, date, callback) {
     count++;
   });
   rStream.on('end', function() {
-    callback(count);
+    callback(null, count);
   });
 }
