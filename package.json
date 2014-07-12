@@ -3,5 +3,9 @@
   "version": "0.0.0",
   "repository": {
     "type": "git"
+  },
+  "dependencies": {
+    "level": "^0.18.0",
+    "level-sublevel": "^5.2.0"
   }
 }
