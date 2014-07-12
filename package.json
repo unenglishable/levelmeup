@@ -6,6 +6,7 @@
   },
   "dependencies": {
     "level": "^0.18.0",
-    "level-sublevel": "^5.2.0"
+    "level-sublevel": "^5.2.0",
+    "multilevel": "^6.0.0"
   }
 }
